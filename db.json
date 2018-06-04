@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "23", "firstName": "TOTO", "age": 53, "companyId": "1"
+        },
+        {
+            "id": "25", "firstName": "Simon", "age": 23, "companyId": "2"
+        },
+        {
+            "id": "12", "firstName": "Lucie", "age": 18, "companyId": "1"
+        },
+        {
+            "id": "27", "firstName": "Roger", "age": 60, "companyId": "2"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1", "name": "Wisolv", "description": "Job"
+        },
+        {
+            "id": "2", "name": "Apple", "description": "iphone bullshit"
+        }
+    ]
+}
